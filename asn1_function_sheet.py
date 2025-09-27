@@ -81,3 +81,4 @@ class CohortMetric():
             output_string += f"\t{stat}:\n{value}\n"
             output_string += "\n"
         return output_string
+
